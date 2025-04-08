@@ -32,4 +32,4 @@ Create a set of four questions that you anticipate each business leader will ask
 1.	Which products have highest purchase rates?
 2.	How does the product with highest purchase rates perform in every region?
 3.	What is the customer repeat rate? How long does it take the repeat customer to purchase a product after their first purchase?
-4.	Who are the customers who have returned most frequently? What percentage of revenue do they hold?
+4.	Who are the customers who have returned most frequently and what percentage of revenue do they hold?
