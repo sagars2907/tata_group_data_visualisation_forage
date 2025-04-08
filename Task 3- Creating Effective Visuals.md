@@ -42,3 +42,7 @@ The CMO of the online retail store wants to view the information on the top 10 c
 **Question 4**
 
 The CEO is looking to gain insights on the demand for their products. He wants to look at all countries and see which regions have the greatest demand for their products. Once the CEO gets an idea of the regions that have high demand, he will initiate an expansion strategy which will allow the company to target these areas and generate more business from these regions. He wants to view the entire data on a single view without the need to scroll or hover over the data points to identify the demand. There is no need to show data for the United Kingdom as the CEO is more interested in viewing the countries that have expansion opportunities.
+
+Link to the Tata Retail Sales Dashboard for further reference(Tableau Public)- https://public.tableau.com/views/TataRetailsalesdashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+![Screenshot 2025-04-08 231217](https://github.com/user-attachments/assets/42a48da9-93a9-4c74-b26e-d344731a4a08)
